@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elena
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently a Yandex.Practicum student
+- Here you can find my data analysis projects 
 - 📫 How to reach me: elena.donchenko2018@gmail.com
 
 <!---
